@@ -1,0 +1,6 @@
+
+CONFIG = {}
+
+CONFIG.BOXVIE = Color(211, 17, 7)
+
+CONFIG.BOXARMURE = Color(13, 107, 203)
